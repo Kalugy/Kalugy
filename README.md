@@ -1,8 +1,9 @@
 
 
 ---
-
-### About Me :
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=About+Me" alt="Typing SVG" /></a>
+</h1>
 
 - :rocket: Full Stack Web Development;
 
@@ -12,7 +13,7 @@
 
 - :coffee: In my spare time, I love playing some sports, games and study!
 - :mailbox_with_mail:	How to reach me:
-<a href="danieltrujillo902@gmail.com"> :email: mail me </a>
+<a href="mailto:danieltrujillo902@gmail.com"> :email: mail me </a>
 
 
 <div id="badges" align="center">
@@ -24,7 +25,5 @@
   </a>
 </div>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Hey+there!" alt="Typing SVG" /></a>
-</h1>
+
 
