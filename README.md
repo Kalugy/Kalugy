@@ -9,7 +9,7 @@
 
 - :surfing_woman: Exploring javascript;
 
-- :books: platzy learning;
+- :books: Exploring Unity;
 
 - :coffee: In my spare time, I love playing some sports, games and study!
 - :mailbox_with_mail:	How to reach me:
