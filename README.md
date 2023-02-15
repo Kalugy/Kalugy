@@ -10,7 +10,7 @@
 
 - :books: Exploring Unity;
 
-- :surfing_woman: Game dvelopment;
+- :surfing_woman: Game development;
 
 - :surfing_woman: Exploring javascript;
 
