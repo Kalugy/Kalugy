@@ -7,9 +7,13 @@
 
 - :rocket: Full Stack Web Development;
 
-- :surfing_woman: Exploring javascript;
 
 - :books: Exploring Unity;
+
+- :surfing_woman: Game dvelopment;
+
+- :surfing_woman: Exploring javascript;
+
 
 - :coffee: In my spare time, I love playing some sports, games and study!
 - :mailbox_with_mail:	How to reach me:
