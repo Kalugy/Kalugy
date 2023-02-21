@@ -16,8 +16,7 @@
 
 
 - :coffee: In my spare time, I love playing some sports, games and study!
-- :mailbox_with_mail:	How to reach me:
-<a href="mailto:danieltrujillo902@gmail.com"> :email: mail me </a>
+
 
 
 <div id="badges" align="center">
