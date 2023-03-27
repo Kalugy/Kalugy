@@ -9,11 +9,11 @@
 
 
 
-- :surfing_woman: Developer;
+- :surfing_woman: Developer
 
-- :surfing_woman: Exploring javascript;
+- :surfing_woman: Exploring javascript
 
-- :books: Exploring Unity;
+- :books: Exploring Unity
 
 - :coffee: In my spare time, I love playing some sports, games and study!
 
