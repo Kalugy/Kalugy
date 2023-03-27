@@ -8,12 +8,12 @@
 - :rocket: Full Stack Development;
 
 
-- :books: Exploring Unity;
 
-- :surfing_woman: Game development;
+- :surfing_woman: Developer;
 
 - :surfing_woman: Exploring javascript;
 
+- :books: Exploring Unity;
 
 - :coffee: In my spare time, I love playing some sports, games and study!
 
