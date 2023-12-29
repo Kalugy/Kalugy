@@ -11,7 +11,7 @@
 
 - :surfing_woman: Exploring javascript
 
-- :books: Exploring Unity
+- :books: Exploring projects
 
 - :coffee: In my spare time, I love playing some sports, games and study!
 
