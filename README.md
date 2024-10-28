@@ -13,7 +13,7 @@
 
 - :books: Exploring projects
 
-- :coffee: In my spare time, I love playing some sports, games and study!
+- :coffee: In my spare time, I like playing some sports, games and study!
 
 
 
