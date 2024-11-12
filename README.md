@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=About+Me" alt="Typing SVG" /> </a> </h1> <p align="center"> <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230059b3.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Exploring-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+<h1 align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=About+Me" alt="Typing SVG" /> </a> </h1> <p align="center"> <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230059b3.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-Exploring-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 :rocket: Full Stack Developer
 I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills.
 
