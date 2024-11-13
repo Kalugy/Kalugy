@@ -32,8 +32,6 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 ### Languages & Technologies
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
 
-### Most Used Repositories
-[![Your Repository](https://github-readme-stats.vercel.app/api/pin/?username=kalugy&repo=your-repository)](https://github.com/kalugy/your-repository)
 
 ---
 
@@ -41,10 +39,12 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kalugy&theme=dark)
 
 ---
-
+<!--
 ### 🔥 Wakatime Stats
 [![Wakatime](https://wakatime.com/badge/user/kalugy.svg)](https://wakatime.com/@kalugy)
 
-
+### Most Used Repositories
+[![Your Repository](https://github-readme-stats.vercel.app/api/pin/?username=kalugy&repo=your-repository)](https://github.com/kalugy/your-repository)
+-->
 
 
