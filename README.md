@@ -5,8 +5,8 @@
 <p align="left"> 
 <img src="https://img.shields.io/badge/Developer-%230059b3.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 
 
 </p>
