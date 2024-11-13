@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/Node.js-%234285F4.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> 
 <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-</p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
+<img src="https://img.shields.io/badge/DynamoDB-3766AB?style=flat-square&logo=amazon-dynamodb&logoColor=white" /> 
+
 
 :rocket: Developer
 I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills.
