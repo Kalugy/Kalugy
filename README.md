@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
 <img src="https://img.shields.io/badge/DynamoDB-3766AB?style=flat-square&logo=amazon-dynamodb&logoColor=white" /> 
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+</p>
 
 :rocket: Developer
 I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills.
