@@ -27,23 +27,23 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 ## 📊 Stats & Achievements
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ### Languages & Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
 
 ### Most Used Repositories
-[![Your Repository](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repository)](https://github.com/your-username/your-repository)
+[![Your Repository](https://github-readme-stats.vercel.app/api/pin/?username=kalugy&repo=your-repository)](https://github.com/kalugy/your-repository)
 
 ---
 
 ### 🏆 Contributions in the Last Year
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kalugy&theme=dark)
 
 ---
 
 ### 🔥 Wakatime Stats
-[![Wakatime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
+[![Wakatime](https://wakatime.com/badge/user/kalugy.svg)](https://wakatime.com/@kalugy)
 
 
 
