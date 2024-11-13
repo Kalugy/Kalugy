@@ -24,6 +24,26 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 - Experimenting with new frameworks and tools in the JavaScript ecosystem
 
 
+## 📊 Stats & Achievements
+
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+### Languages & Technologies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+### Most Used Repositories
+[![Your Repository](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repository)](https://github.com/your-username/your-repository)
+
+---
+
+### 🏆 Contributions in the Last Year
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+
+---
+
+### 🔥 Wakatime Stats
+[![Wakatime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
 
 
 
