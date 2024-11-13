@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 <img src="https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
 <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-%234285F4.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
 
 
 </p>
