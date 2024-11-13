@@ -19,9 +19,9 @@ I'm passionate about developing dynamic applications and continuously learning n
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills.
 
 📚 My Interests
-:computer: Building and optimizing web applications
-:bulb: Solving coding challenges and exploring open-source projects
-:surfing_woman: Experimenting with new frameworks and tools in the JavaScript ecosystem
+- Building and optimizing web applications
+- Solving coding challenges and exploring open-source projects
+- Experimenting with new frameworks and tools in the JavaScript ecosystem
 
 
 
