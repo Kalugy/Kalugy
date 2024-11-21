@@ -23,7 +23,6 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 
 📚 My Interests
 - Building and optimizing web applications
-- Solving coding challenges and exploring open-source projects
 - Experimenting with new frameworks and tools in the JavaScript ecosystem
 
 
