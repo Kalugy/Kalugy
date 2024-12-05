@@ -22,7 +22,8 @@ I'm passionate about developing dynamic applications and continuously learning n
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills.
 
 📚 My Interests
-- Building and optimizing web applications
+- Building projects
+- Create projects with porpuse 
 - Experimenting with new frameworks and tools in the JavaScript ecosystem
 
 
