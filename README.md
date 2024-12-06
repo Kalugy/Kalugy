@@ -23,7 +23,7 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 
 📚 My Interests
 - Building projects
-- Create projects with porpuse 
+- Create projects 
 - Experimenting with new frameworks and tools in the JavaScript ecosystem
 
 
