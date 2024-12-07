@@ -16,7 +16,7 @@
 </p>
 
 :rocket: Developer
-I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills.
+I'm passionate about developing dynamics applications and continuously learning new technologies to improve my skills.
 
 🌍 Currently Exploring
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills.
