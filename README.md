@@ -18,7 +18,7 @@
 :rocket: Developer
 I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills
 
-:construction_worker: Currently building [growvyn.com](https://growvyn.com)  
+:construction_worker: Currently building [growvyn.com](https://growvyn.com){:target="_blank"}  
 
 🌍 Currently Exploring  
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
