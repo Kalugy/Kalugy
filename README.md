@@ -16,7 +16,6 @@
 </p>
 
 :rocket: Developer
-I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills
 
 :construction_worker: Currently building <a href="https://growvyn.com" target="_blank">growvyn.com</a>    
 
