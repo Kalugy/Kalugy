@@ -19,7 +19,9 @@
 I'm passionate about developing dynamic applications and continuously learning new technologies to improve my skills
 
 🌍 Currently Exploring
+Currently building in [growvyn.com](https://growvyn.com)
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
+
 
 📚 My Interests
 - Building projects
