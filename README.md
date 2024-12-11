@@ -36,13 +36,11 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 ### 🏆 Contributions in the Last Year
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kalugy&theme=dark)
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&hide=prs&theme=dark)
-
 ### Languages & Technologies
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
 
-
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ---
 <!--
