@@ -1,5 +1,7 @@
 
 
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKalugy&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 <h1 align="left"> <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=About+Me" alt="Typing SVG" /> </a> </h1> 
 <p align="left"> 
@@ -41,8 +43,6 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
 
 
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKalugy&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 ---
 <!--
