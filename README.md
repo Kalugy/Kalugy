@@ -36,7 +36,6 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 ### 🏆 Contributions in the Last Year
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kalugy&theme=dark)
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=kalugy&theme=highcontrast&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&theme=dark)
 ![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kalugy&theme=github)
 
 ### Languages & Technologies
