@@ -18,7 +18,7 @@
 
 :rocket: Developer
 
-:construction_worker: Currently building <a href="https://growvyn.com" target="_blank">growvyn.com</a> and <a target="_blank">daily js</a>
+:construction_worker: Currently building <a href="https://growvyn.com" target="_blank">growvyn.com</a> and <a target="_blank">daily js challenges</a>
 
 🌍 Currently Exploring  
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
