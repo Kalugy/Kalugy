@@ -18,6 +18,16 @@
 
 :rocket: Developer
 
+
+🌍 Currently Exploring  
+I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
+
+📚 My Interests
+- Building projects
+- Create projects 
+- Experimenting with new frameworks and tools in the JavaScript ecosystem
+- Aws certifications
+
 # 🚧 Projects in Progress
 
 👷‍♂️ I’m currently building and maintaining the following exciting projects:
@@ -35,14 +45,6 @@
    🦴 Skeleton is a completed project focused on learn bones in a interactive way.
 
 
-🌍 Currently Exploring  
-I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
-
-📚 My Interests
-- Building projects
-- Create projects 
-- Experimenting with new frameworks and tools in the JavaScript ecosystem
-- Aws certifications
 
 ## 📊 Stats & Achievements
 
