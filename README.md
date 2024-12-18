@@ -18,7 +18,22 @@
 
 :rocket: Developer
 
-:construction_worker: Currently building <a href="https://growvyn.com" target="_blank">growvyn.com</a> and <a target="_blank">daily js challenges</a>
+# 🚧 Projects in Progress
+
+👷‍♂️ I’m currently building and maintaining the following exciting projects:
+
+1. **[Growvyn](https://growvyn.com)**  
+   🌱 Growvyn is an innovative platform for self develpment
+
+2. **[Daily JS Challenges](https://js-challenges-flax.vercel.app)**  
+   🎯 A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
+
+---
+# ✅ Completed Projects
+
+1. **[Skeleton](https://skeleton-amber.vercel.app)**  
+   🦴 Skeleton is a completed project focused on learn bones in a interactive way.
+
 
 🌍 Currently Exploring  
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
