@@ -31,8 +31,6 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 
 🚧 💡 Coding side Projects and code hobbies
 
-👷‍♂️ I’m currently building and maintaining the following exciting projects:
-
 1. **[Growvyn](https://growvyn.com)**  
    🌱 Growvyn is an innovative platform for self develpment
 
