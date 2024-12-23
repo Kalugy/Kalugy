@@ -28,7 +28,8 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 - Experimenting with new frameworks and tools in the JavaScript ecosystem
 - Aws certifications
 
-# 🚧 Projects in Progress
+
+# 🚧 💡 Coding Side Projects & Code Hobbies
 
 👷‍♂️ I’m currently building and maintaining the following exciting projects:
 
