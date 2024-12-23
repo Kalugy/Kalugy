@@ -29,7 +29,7 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 - Aws certifications
 
 
-# 🚧 💡 Coding Side Projects & Code Hobbies
+# 🚧 💡 Coding side Projects and code hobbies
 
 👷‍♂️ I’m currently building and maintaining the following exciting projects:
 
