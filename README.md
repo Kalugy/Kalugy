@@ -23,10 +23,10 @@
 I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
 
 📚 My Interests
-- Building projects
-- Create projects 
-- Experimenting with new frameworks and tools in the JavaScript ecosystem
-- Aws certifications
+- Build Practical Projects
+- Develop Creative Solutions
+- Explore New Frameworks and Tools
+- Pursue AWS Certifications
 
 
 🚧 💡 Coding side Projects and code hobbies
@@ -38,12 +38,10 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
    🎯 A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
 
 ---
-# ✅ Completed Projects
+# ✅ Completed MVP
 
 1. **[Skeleton](https://skeleton-amber.vercel.app)**  
    🦴 Skeleton is a completed project focused on learn bones in a interactive way.
-
-
 
 ## 📊 Stats & Achievements
 
