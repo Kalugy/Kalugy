@@ -18,18 +18,13 @@
 
 :rocket: Developer
 
-
-🌍 Currently Exploring  
-I’m diving deeper into JavaScript and working on projects that push the boundaries of my full-stack development skills
-
 📚 My Interests
 - Build Practical Projects
 - Develop Creative Solutions
 - Explore New Frameworks and Tools
 - Pursue AWS Certifications
 
-
-🚧 💡 Coding side Projects and code hobbies
+🚧 Code hobbies
 
 1. **[Growvyn](https://growvyn.com)**  
    🌱 Growvyn is an innovative platform for self develpment
@@ -37,10 +32,7 @@ I’m diving deeper into JavaScript and working on projects that push the bounda
 2. **[Daily JS Challenges](https://js-challenges-flax.vercel.app)**  
    🎯 A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
 
----
-# ✅ Completed MVP
-
-1. **[Skeleton](https://skeleton-amber.vercel.app)**  
+3. **[Skeleton](https://skeleton-amber.vercel.app)**  
    🦴 Skeleton is a completed project focused on learn bones in a interactive way.
 
 ## 📊 Stats & Achievements
