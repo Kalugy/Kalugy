@@ -26,14 +26,13 @@
 
 🚧 Code hobbies
 
-**[Growvyn](https://growvyn.com)**  
-   🌱 Growvyn is an innovative platform for self develpment
+   🌱 **[Growvyn](https://growvyn.com)** is an innovative platform for self develpment
 
-**[Daily JS Challenges](https://js-challenges-flax.vercel.app)**  
-   🎯 A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
 
-**[Skeleton](https://skeleton-amber.vercel.app)**  
-   🦴 Skeleton is a completed project focused on learn bones in a interactive way.
+   🎯 **[Daily JS Challenges](https://js-challenges-flax.vercel.app)** A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
+
+
+   🦴 **[Skeleton](https://skeleton-amber.vercel.app)** is a completed project focused on learn bones in a interactive way.
 
 ## 📊 Stats & Achievements
 
