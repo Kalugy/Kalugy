@@ -16,27 +16,24 @@
 <img src="https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
 </p>
 
-:rocket: Developer
+### :rocket: Developer
 
-📚 My Interests
+### 📚 My Interests
 - Build Practical Projects
 - Develop Creative Solutions
 - Explore New Frameworks and Tools
 - Pursue AWS Certifications
 
-🚧 Code hobbies
+### 🚧 Code hobbies
 
-   🌱 **[Growvyn](https://growvyn.com)** is an innovative platform for self develpment
-
-
-   🎯 **[Daily JS Challenges](https://js-challenges-flax.vercel.app)** A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
+- **[Growvyn](https://growvyn.com)** is an innovative platform for self development
 
 
-   🦴 **[Skeleton](https://skeleton-amber.vercel.app)** is a completed project focused on learn bones in a interactive way.
+- **[Daily JS Challenges](https://js-challenges-flax.vercel.app)** A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
 
-## 📊 Stats & Achievements
 
----
+- **[Skeleton](https://skeleton-amber.vercel.app)** is a completed project focused on interactively learning bones.
+
 
 ### 🏆 Contributions in the Last Year
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kalugy&theme=dark)
