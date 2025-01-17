@@ -4,17 +4,7 @@
 
 <h1 align="left"> <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=About+Me" alt="Typing SVG" /> </a> </h1> 
-<p align="left"> 
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Node.js-%234285F4.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
-<img src="https://img.shields.io/badge/DynamoDB-3766AB?style=flat-square&logo=amazon-dynamodb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
-</p>
+
 
 ### :rocket: Developer 
 I am a passionate Software development focused on innovative solutions and continuous learning.
@@ -30,6 +20,18 @@ I am a passionate Software development focused on innovative solutions and conti
 - **[Daily JS Challenges](https://js-challenges-flax.vercel.app)** A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
 - **[Skeleton](https://skeleton-amber.vercel.app)** is a completed project focused on interactively learning bones.
 
+### 🛠 Tools
+<p align="left"> 
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-%234285F4.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
+<img src="https://img.shields.io/badge/DynamoDB-3766AB?style=flat-square&logo=amazon-dynamodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PHP-%230075B8.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
+</p>
 
 ### 🏆 Contributions in the Last Year
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=kalugy&theme=highcontrast&hide_border=true)
