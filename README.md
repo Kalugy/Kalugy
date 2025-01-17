@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKalugy&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 <h1 align="left"> <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=About+Me" alt="Typing SVG" /> </a> </h1> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Welcome!!" alt="Typing SVG" /> </a> </h1> 
 
 ### :rocket: Developer
 I am a passionate Software development focused on innovative solutions and continuous learning.
