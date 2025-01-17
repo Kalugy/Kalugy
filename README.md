@@ -19,10 +19,10 @@
 ### :rocket: Developer
 
 ### 📚 My Interests
-- Build Practical Projects
-- Develop Creative Solutions
-- Explore New Frameworks and Tools
-- Pursue AWS Certifications
+- Software Development.
+- Problem Solving & Creative Thinking.
+- Full Stack Development (mention any specific tech stack if applicable).
+- Project Management & Virtual Assistance.
 
 ### 🚧 Code hobbies
 
