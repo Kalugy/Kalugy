@@ -21,7 +21,7 @@
 ### 📚 My Interests
 - Software Development.
 - Problem Solving & Creative Thinking.
-- Full Stack Development (mention any specific tech stack if applicable).
+- Full Stack Development.
 - Project Management & Virtual Assistance.
 
 ### 🚧 Code hobbies
