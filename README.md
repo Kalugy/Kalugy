@@ -8,7 +8,7 @@ Software development focused on innovative solutions and continuous learning.
 ### 📚 My Interests
 - Software Development.
 - Problem Solving & Creative Thinking.
-- Full Stack Development.
+- Full Stack Development and qa.
 - Project Management & Virtual Assistance.
 
 ### 🚧 Recent projects
