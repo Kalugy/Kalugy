@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Welcome!" alt="Typing SVG" /> </a></p> 
 
 ### :rocket: Software Developer
-I am a Software development focused on innovative solutions and continuous learning.
+Software development focused on innovative solutions and continuous learning.
 ### 📚 My Interests
 - Software Development.
 - Problem Solving & Creative Thinking.
