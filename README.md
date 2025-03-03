@@ -9,8 +9,8 @@ Adaptable and growth-driven software engineer, passionate about creating project
 ### 📚 My Interests
 - Software Development.
 - Problem Solving & Creative Thinking.
-- Full Stack Development and qa.
-- Project Management & Virtual Assistance.
+- Full Stack Development
+- QA
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development
@@ -47,6 +47,8 @@ Adaptable and growth-driven software engineer, passionate about creating project
 ![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
 
 ![GitHub Metrics](https://github.com/kalugy/github-metrics/blob/main/github-metrics.svg)
+![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalugy&theme=github_dark)
+
 
 ### Languages & Technologies
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
