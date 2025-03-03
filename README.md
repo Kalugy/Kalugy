@@ -6,11 +6,13 @@
 ### :rocket: Software Engineer
 Adaptable and growth-driven software engineer, passionate about creating projects, developing innovative solutions, and helping people bring their ideas to life with technology
 
-### 📚 My Interests
-- Software Development.
-- Problem Solving & Creative Thinking.
-- Full Stack Development
-- QA
+### 📚 Skills & Interests
+- Software Development
+- Problem-Solving
+- Full-Stack Development
+- Technical Support
+- Quality Assurance
+- Product Development
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development
