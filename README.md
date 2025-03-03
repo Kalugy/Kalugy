@@ -44,6 +44,9 @@ Adaptable and growth-driven software engineer, passionate about creating project
 ### 🏆 Contributions in the Last Year
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=kalugy&theme=highcontrast&hide_border=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalugy&theme=github-dark&hide_border=true)
+![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
+
+![GitHub Metrics](https://github.com/kalugy/github-metrics/blob/main/github-metrics.svg)
 
 ### Languages & Technologies
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
