@@ -10,7 +10,7 @@ Adaptable and growth-driven software engineer, passionate about creating project
 - Software Development
 - Problem-Solving
 - Full-Stack Development
-- Technical Support
+- Devops
 - Quality Assurance
 - Product Development
 
