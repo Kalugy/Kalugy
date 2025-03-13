@@ -7,8 +7,6 @@
 Adaptable and growth-driven software engineer, passionate about creating projects, developing innovative solutions, and helping people bring their ideas to life with technology
 
 ### 📚 Skills & Interests
-- Software Development
-- Problem-Solving
 - Full-Stack Development
 - Devops
 - Quality Assurance
