@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Welcome!" alt="Typing SVG" /> </a></p> 
 
 ### :rocket: Software Engineer
-Adaptable and growth-driven software engineer, passionate about creating projects, developing innovative solutions, and helping people bring their ideas to life with technology
+Growth-driven software engineer, passionate about developing innovative solutions, driving impactful projects, and transforming ideas into reality through technology.
 
 ### 📚 Skills & Interests
 - Full-Stack Development
