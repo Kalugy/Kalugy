@@ -12,6 +12,7 @@ Dedicated to building innovative solutions, driving impactful projects, and turn
 - Devops
 - Quality Assurance
 - Product Development
+- AI
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development
