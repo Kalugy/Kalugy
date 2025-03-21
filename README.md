@@ -3,8 +3,9 @@
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKalugy&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Welcome!" alt="Typing SVG" /> </a></p> 
 
-### :rocket: Software Engineer
-Growth-driven software engineer, passionate about developing innovative solutions, driving impactful projects, and transforming ideas into reality through technology.
+### 🚀 Hi! I'm a Software Engineer  
+Dedicated to building innovative solutions, driving impactful projects, and turning ideas into reality through technology. I specialize in helping people solve tech challenges, optimize processes, and leverage technology to achieve their goals. Focused on growth, efficiency, and creating meaningful digital experiences.  
+
 
 ### 📚 Skills & Interests
 - Full-Stack Development
