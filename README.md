@@ -10,6 +10,7 @@ Dedicated to building innovative solutions, driving impactful projects, and turn
 - Quality Assurance
 - Product Development
 - AI
+- Game Developer
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development
