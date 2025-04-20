@@ -6,8 +6,6 @@ Dedicated to building innovative solutions, driving impactful projects, and turn
 
 ### 📚 Skills & Interests
 - Full-Stack Development
-- Devops
-- Quality Assurance
 - Product Development
 - AI
 - Game development
