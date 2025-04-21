@@ -11,7 +11,7 @@ Dedicated to building innovative solutions, driving impactful projects, and turn
 - Game development
 
 ### 🚧 Recent projects
-- **[Growvyn](https://growvyn.com)** is an innovative platform for self development
+- **[Growvyn](https://growvyn.com)** is an innovative platform for self development! SOON ON PLAYSTORE, Click Start and subscribe to the whitelist!  
 - **[Daily JS Challenges](https://js-challenges-flax.vercel.app)** A platform designed for JavaScript enthusiasts to test and improve their skills through daily challenges.
 - **[Skeleton](https://skeleton-amber.vercel.app)** is a completed project focused on interactively learning bones.
 
