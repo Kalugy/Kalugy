@@ -16,6 +16,7 @@ Dedicated to building innovative solutions, driving impactful projects, and turn
 - **[Skeleton](https://skeleton-amber.vercel.app)** is a completed project focused on interactively learning bones.
 
 ### 🛠 Socials
+- **[Porfolio/Resume](https://juliantrujilloporfoliodev.vercel.app/)**
 <p dir="auto">
   <a href="mailto:danieltrujillo902@gmail.com"><img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://github.com/Kalugy"><img src="https://camo.githubusercontent.com/17a3cfebe6cf2dcf7b339b7b008adb9a55ddc15aec622a27a2a66b207e1e357a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
