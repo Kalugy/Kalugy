@@ -1,14 +1,13 @@
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Welcome!" alt="Typing SVG" /> </a></p> 
 
 ### 🚀 Hi! I'm a Software Engineer  
-Dedicated to building innovative solutions, driving impactful projects, and turning ideas into reality through technology. I specialize in helping people solve tech challenges, optimize processes, and leverage technology to achieve their goals. Focused on growth, efficiency, and creating meaningful digital experiences.  
-
+Focused on building innovative, scalable, and efficient software solutions. Experienced in solving technical challenges, optimizing workflows, and delivering reliable digital products. Specialized in end-to-end development, process automation, and turning functional requirements into high-quality code.
 
 ### 📚 Skills & Interests
-- Full-Stack Development
-- Product Development
-- AI
-- Game development
+🧩 Full-Stack Development
+🚀 Product Development & MVPs
+🤖 Artificial Intelligence & Automation
+🎮 Game Development & Interactive Design
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development! Open for Beta Testers!. Click Start on the website, and welcome to the beta program!  
