@@ -5,9 +5,12 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 
 ### 📚 Skills & Interests
 🧩 Full-Stack Development
+
 🚀 Product Development & MVPs
-🤖 Artificial Intelligence & Automation
-🎮 Game Development & Interactive Design
+
+🤖 AI & Process Automation
+
+🎮 Game Development & Systems Design
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development! Open for Beta Testers!. Click Start on the website, and welcome to the beta program!  
