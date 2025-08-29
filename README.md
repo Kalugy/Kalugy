@@ -4,13 +4,10 @@
 Focused on building innovative, scalable, and efficient software solutions. Experienced in solving technical challenges, optimizing workflows, and delivering reliable digital products. Specialized in end-to-end development, process automation, and turning functional requirements into high-quality code.
 
 ### 📚 Skills & Interests
-🧩 Full-Stack Development
-
-🚀 Product Development & MVPs
-
-🤖 AI & Process Automation
-
-🎮 Game Development & Systems Design
+- 🧩 Full-Stack Development
+- 🚀 Product Development & MVPs
+- 🤖 AI & Process Automation
+- 🎮 Game Development & Systems Design
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development! Open for Beta Testers!. Click Start on the website, and welcome to the beta program!  
