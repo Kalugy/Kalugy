@@ -5,8 +5,11 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 
 ### 📚 Skills & Interests
 🧩 Full-Stack Development
+
 🚀 Product Development & MVPs
+
 🤖 AI & Process Automation
+
 🎮 Game Development & Systems Design
 
 ### 🚧 Recent projects
