@@ -1,7 +1,7 @@
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=67D7B0&width=435&lines=Welcome!" alt="Typing SVG" /> </a></p> 
 
-### 🚀 Hi! I'm a Software Engineer  
-Focused on building innovative, scalable, and efficient software solutions. Experienced in solving technical challenges, optimizing workflows, and delivering reliable digital products. Specialized in end-to-end development, process automation, and turning functional requirements into high-quality code.
+### 🚀 Hi! I'm a System Engineer  
+Focused on building innovative, scalable, and efficient software solutions. Experienced in solving technical challenges, optimizing workflows, and delivering reliable digital products. Specialized in end-to-end development, process automation, troubleshooting, and turning functional requirements into high-quality code.
 
 ### 📚 Skills & Interests
 -  Full-Stack Development 🧩
