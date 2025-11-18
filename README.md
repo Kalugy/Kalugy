@@ -8,7 +8,7 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 -  Product Development & MVPs 🚀
 -  AI & Process Automation 🤖
 -  Game Development & Systems Design 🎮
--  QA and Support Engineer
+-  QA and Support Engineer 🚀
 
 ### 🚧 Recent projects
 - **[Growvyn](https://growvyn.com)** is an innovative platform for self development! Open for Beta Testers!. Click Start on the website, and welcome to the beta program!  
