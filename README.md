@@ -54,7 +54,8 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 https://github-readme-stats.zcy.dev/api?username=kalugy&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kalugy&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+![Your GitHub Stats](https://github-readme-stats.zcy.dev/api?username=kalugy)
 
 ---
 <!--
