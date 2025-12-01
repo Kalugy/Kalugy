@@ -44,15 +44,16 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalugy&theme=github-dark&hide_border=true)
 -->
-![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
 
+![GitHub Commit Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kalugy&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
 
 
 ### Languages & Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kalugy&layout=compact&theme=dark)
+
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalugy&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kalugy&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ---
 <!--
