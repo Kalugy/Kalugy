@@ -7,7 +7,6 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 -  Full-Stack Development 🧩
 -  Product Development & MVPs 🚀
 -  AI & Process Automation 🤖
--  Game Development & Systems Design 🎮
 -  QA and Support Engineer 🚀
 
 ### 🚧 Recent projects
