@@ -16,7 +16,9 @@ Focused on building innovative, scalable, and efficient software solutions. Expe
 
 ### 🛠 Socials
 - **[Porfolio/Resume](https://juliantrujilloporfoliodev.vercel.app/)**
-<img width="1536" height="1024" alt="imagetools" src="https://github.com/user-attachments/assets/b1abbdc1-6ee0-4bd8-9cf5-e7820649622b" />
+
+<img width="1536" height="1024" alt="ChatGPT Image 17 jun 2026, 04_45_14 p m" src="https://github.com/user-attachments/assets/780e5ee9-101e-4c64-afdf-ea5aa16fc7a6" />
+
 
 
 ### 🛠 Tools
